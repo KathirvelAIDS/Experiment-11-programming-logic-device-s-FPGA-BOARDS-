@@ -56,6 +56,5 @@ Click Start to download the selected file to the FPGA. Configuration is complete
 
 
 ### RESULTS 
-![j22](https://user-images.githubusercontent.com/94911373/174226816-da6ec4c1-ce74-49f0-bdd1-e7e6ee71a76c.jpeg)
-
+![i11](https://user-images.githubusercontent.com/94911373/174227266-b00511f6-6e94-430c-a7fc-ad805c69bf27.png)
 
