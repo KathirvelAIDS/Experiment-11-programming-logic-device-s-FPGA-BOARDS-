@@ -42,7 +42,6 @@ Click Start to download the selected file to the FPGA. Configuration is complete
 
 
 
+![j22](https://user-images.githubusercontent.com/94911373/174226816-da6ec4c1-ce74-49f0-bdd1-e7e6ee71a76c.jpeg)
 
-
-![image](https://user-images.githubusercontent.com/94911373/174226568-80eeb58f-4cad-495e-8e49-22b5c5d5e305.png)
 
