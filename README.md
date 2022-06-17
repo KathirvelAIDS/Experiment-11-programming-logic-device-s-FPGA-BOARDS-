@@ -37,4 +37,5 @@ Click Start to download the selected file to the FPGA. Configuration is complete
 
 
 ### RESULTS 
-![WhatsApp Image 2022-06-15 at 9 08 40 PM](https://user-images.githubusercontent.com/94911373/173989584-538384a4-90fa-4c6c-8ec3-40c4b62b8abf.jpeg)
+![image](https://user-images.githubusercontent.com/94911373/174226568-80eeb58f-4cad-495e-8e49-22b5c5d5e305.png)
+
